@@ -5,7 +5,7 @@
   "verify": [
     "python3",
     "checks.py",
-    "baseline"
+    "report"
   ],
   "demo": [
     "python3",
